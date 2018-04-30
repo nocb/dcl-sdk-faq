@@ -27,6 +27,7 @@ npm ERR!     /Users/hansen/.npm/_logs/2018-04-27T09_29_53_767Z-debug.log
 
 解决方法是： 去github 的setting 中设置你的 ssh public key
 参考下面链接
+
 https://help.github.com/articles/error-permission-denied-publickey/
 
 https://stackoverflow.com/questions/2643502/git-permission-denied-publickey
