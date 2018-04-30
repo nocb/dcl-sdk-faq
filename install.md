@@ -6,7 +6,9 @@ https://docs.decentraland.org/docs/sdk-quick-start-guide
 
 ![sdk 安装][1]
 
-A1: windows 7 is not supported :disappointed: windows-build-tools needs at least 8 iirc
+### A1:
+windows 7 is not supported :disappointed: windows-build-tools needs at least 8 iirc
+
 SDK 不支持 win7系统。 
 
 
