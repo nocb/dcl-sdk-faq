@@ -23,7 +23,7 @@ npm ERR! A complete log of this run can be found in:
 npm ERR!     /Users/hansen/.npm/_logs/2018-04-27T09_29_53_767Z-debug.log
 ```
 
-### A2: 这是因为你的git 拒绝链接github的服务器
+### A2: 这是因为github的服务器拒绝你的git连接
 
 解决方法是： 去github 的setting 中设置你的 ssh public key
 参考下面链接
